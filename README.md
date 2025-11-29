@@ -32,7 +32,7 @@ Resume as características do contorno nunha táboa co formato:
 
 Contorno de tarefas | Observable| Axentes | Determinista | Episódico | Estático | Discreto | Coñecido
 :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
- RPS | Partially | Multi | Stochastic | Episodic | Static |  Discrete |  - |
+ RPS | Partially | Multi | Stochastic | Episodic | Static |  Discrete |  Known |
 
 **Observable:** Considero que só é parcialmente observable, debido a que o axente non sabe cal será a xogada do ser human antes de elixir, polo que non ten tódala información do entorno.
 
@@ -131,4 +131,5 @@ A rúbrica da implementación Python [na segunda folla "RPS" deste libro de cál
 - Estende a lóxica do axente para xogar á versión "pedra, papel, tesoiras, lagarto, Spock" correctamente, mantendo a calidade do código e a coherencia co tipo de axente seleccionado. 
 
 - A documentación no README do proxecto en GitHub/GitLab deber estar completa seguindo a orde especificada nesta rúbrica, explicando o problema, a contorna de tarefas, a estrutura do axente, a implementación e a extensión, cun formato Markdown axeitado.
+
 
