@@ -76,17 +76,14 @@ Elixo os dous modelos que considero máis adecuados para este axente.
 
 É adecuado para o que queremos porque dependendo da estratexia que usemos o axente pode non requerir memoria ao xogar aleatoriamente ou só reaccionando ás xogadas do rival.
 
-
-
-
-
+![Modelo simple](./doc/ModeloSimple.jpeg)
 
 ## Axente baseado en utilidade
 
 Con este modelo o axente pode calcular as probabilidades, escoller a xogada que maximiza as probabilidades de victoria(Estudando os movementos do rival ou doutra forma) e é máis intelixente que o reactivo
 
 
-
+![Modelo utilidade](./doc/ModeloUtilidade.jpeg)
 
 
 ## Implementación - Simulando IA
@@ -151,6 +148,7 @@ A rúbrica da implementación Python [na segunda folla "RPS" deste libro de cál
 - Estende a lóxica do axente para xogar á versión "pedra, papel, tesoiras, lagarto, Spock" correctamente, mantendo a calidade do código e a coherencia co tipo de axente seleccionado. 
 
 - A documentación no README do proxecto en GitHub/GitLab deber estar completa seguindo a orde especificada nesta rúbrica, explicando o problema, a contorna de tarefas, a estrutura do axente, a implementación e a extensión, cun formato Markdown axeitado.
+
 
 
 
