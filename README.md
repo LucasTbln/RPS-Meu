@@ -69,6 +69,26 @@ A partires do modelo xeral de axente intelixente da figura:
 
 Cada clase de axente combina compoñentes particulares dun modo particular para xerar as accións. 
 
+
+Elixo os dous modelos que considero máis adecuados para este axente.
+
+## Axente reactivo simple
+
+É adecuado para o que queremos porque dependendo da estratexia que usemos o axente pode non requerir memoria ao xogar aleatoriamente ou só reaccionando ás xogadas do rival.
+
+
+
+
+
+
+## Axente baseado en utilidade
+
+Con este modelo o axente pode calcular as probabilidades, escoller a xogada que maximiza as probabilidades de victoria(Estudando os movementos do rival ou doutra forma) e é máis intelixente que o reactivo
+
+
+
+
+
 ## Implementación - Simulando IA
 
 Implementa en Python os compoñentes da estrutura do axente para construir a función axente ou función mapa.
@@ -131,5 +151,6 @@ A rúbrica da implementación Python [na segunda folla "RPS" deste libro de cál
 - Estende a lóxica do axente para xogar á versión "pedra, papel, tesoiras, lagarto, Spock" correctamente, mantendo a calidade do código e a coherencia co tipo de axente seleccionado. 
 
 - A documentación no README do proxecto en GitHub/GitLab deber estar completa seguindo a orde especificada nesta rúbrica, explicando o problema, a contorna de tarefas, a estrutura do axente, a implementación e a extensión, cun formato Markdown axeitado.
+
 
 
